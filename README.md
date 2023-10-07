@@ -1,2 +1,2 @@
 # DC-GAN
-Implementation of DC-GAN 
+## Coming Soon
