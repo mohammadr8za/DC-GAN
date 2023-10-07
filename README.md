@@ -1,2 +1,2 @@
 # DC-GAN
-## Coming Soon
+## Coming Soon ...
