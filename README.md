@@ -2,6 +2,8 @@
 
 This repository contains an implementation of a DCGAN (Deep Convolutional Generative Adversarial Network) trained on the MNIST dataset and designed to work with custom image datasets as well. The DCGAN is a popular architecture for generating realistic images by training a generator and discriminator network in an adversarial manner.
 
+![68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313030302f312a33394e6e6e695f6e685044614c7539416e544c6f57772e706e67](https://github.com/mohammadr8za/DC-GAN/assets/72736177/6ac5090f-b12c-45b5-af36-21d7f1b3f298)
+
 ## Key Features:
 
 * MNIST Dataset and Custom Image Datasets: While the DCGAN's results on the MNIST dataset are showcased for validation purposes, this implementation provides the flexibility to train the model on any other custom image dataset. Simply provide the address of the custom dataset in the code, and the DCGAN will adapt accordingly.
