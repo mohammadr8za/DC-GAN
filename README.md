@@ -20,7 +20,7 @@ This repository contains an implementation of a DCGAN (Deep Convolutional Genera
 
 * Customize the code to provide the address and specific requirements of your custom image dataset for training the DCGAN.
 
-* Run the training script, which will train the generator and discriminator networks in an adversarial manner using either the MNIST dataset or your own custom dataset.
+* Run the "main.py" script, which will train the generator and discriminator networks in an adversarial manner using either the MNIST dataset or your own custom dataset.
 
 * Once training is complete, you can generate new images using the trained generator network.
 
