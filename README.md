@@ -28,7 +28,7 @@ This repository contains an implementation of a DCGAN (Deep Convolutional Genera
 
 By training the DCGAN on the MNIST dataset, the generator network learns to generate realistic-looking handwritten digits. This serves as a validation of the DCGAN's performance. However, the code's flexibility allows you to train the DCGAN on any custom image dataset, making it adaptable to a wide range of applications.
 
-##Future Improvements:
+## Future Improvements:
 
 This repository provides a foundation for implementing and training DCGANs on both the MNIST dataset and custom image datasets. Future improvements could include exploring different architectural variations, incorporating advanced techniques such as conditional generation or spectral normalization, or optimizing the code for improved performance and training stability.
 
