@@ -39,5 +39,5 @@ def checkpoint(loss_generator, loss_discriminator, root, Exp_ID, epoch,
         config_df = pd.DataFrame(config, index=[0])
         config_df.to_csv(join(save_root, "config.csv"), index=False)
 
-    print("Checkpoint !")
+    print("Checkpoint!")
 
